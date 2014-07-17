@@ -7,8 +7,8 @@ NAME
 
 DESCRIPTION
 
-    This RT extension alter the administration panel adding custom rights.
-    These rights are prepend with '[RT::Extension::HideWidgets]'
+    This RT extension alters the administration panel adding custom rights.
+    These rights are prepended by '[RT::Extension::HideWidgets]'
 
 TODO
 
@@ -40,7 +40,7 @@ To install this module, run the following commands:
 
     Restart your webserver
 
-    Be advise that a local ShowSummary file is create when using this 
+    Be advised that a local ShowSummary file is create when using this 
     extension. 
 
 CONFIGURATION
